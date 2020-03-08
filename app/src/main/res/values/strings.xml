@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Blue Chat</string>
+    <string name="title_scan">扫描附近的用户</string>
+    <string name="title_chat">未匹配用户</string>
+    <string name="title_recent">最近匹配的用户</string>
+    <string name="nav_scan">扫描</string>
+    <string name="nav_chat">聊天</string>
+    <string name="nav_recent">最近</string>
+
+    <string name="unknown">未知</string>
+    <string name="bluetooth_description">搜索附近的设备</string>
+
+    <string name="matched_header">已配对的设备</string>
+    <string name="device_header">搜索到的设备</string>
+
+    <string name="chat_send">发送图片</string>
+    <string name="chat_hint">请输入聊天内容</string>
+</resources>
